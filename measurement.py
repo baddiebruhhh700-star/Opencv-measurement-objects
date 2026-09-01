@@ -9,9 +9,9 @@ import math
 # 1. SETTINGS
 # ============================================================
 
-IMAGE_PATH = r"C:\Users\DELL\Downloads\tools count.jfif"
+IMAGE_PATH = "input/tools_count.jpg"
 
-OUTPUT_FOLDER = r"C:\Users\DELL\Documents\perception-folder\output"
+OUTPUT_FOLDER = "output"
 
 MIN_AREA = 2000
 
